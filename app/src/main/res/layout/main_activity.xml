@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E5E5E5"
-    tools:context=".MainActivity"
+    tools:context=".login_ac"
     tools:elevation="3dp">
 
     <ImageView
@@ -167,7 +167,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
-                    android:text="Country"
+                    android:text="Country:"
                     android:textColor="#D6D6D6"
 
                     android:textSize="16sp" />
