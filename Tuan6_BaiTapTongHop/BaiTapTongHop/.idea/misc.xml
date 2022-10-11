@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/drawable/listview.xml" value="0.129" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/activity_home_app.xml" value="0.16486486486486487" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/activity_list_movie.xml" value="0.16188524590163936" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/activity_login_app.xml" value="0.1" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/activity_main_list_view.xml" value="0.13183060109289618" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/activity_register_app.xml" value="0.176" />
+        <entry key="..\:/BaiTapTongHop/app/src/main/res/layout/listview_phim.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/2050531200317_TranAnhTuan_GiaoDien/BaiTapTongHop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1415" />
+        <entry key="..\:/Users/Admin/Desktop/2050531200317_TranAnhTuan_GiaoDien/BaiTapTongHop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1415" />
+        <entry key="..\:/Users/Admin/Desktop/2050531200317_TranAnhTuan_GiaoDien/BaiTapTongHop/app/src/main/res/layout/activity_login_app.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/2050531200317_TranAnhTuan_GiaoDien/BaiTapTongHop/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/2050531200317_TranAnhTuan_GiaoDien/BaiTapTongHop/app/src/main/res/layout/activity_register_app.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
